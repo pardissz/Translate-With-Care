@@ -27,14 +27,17 @@ TWC introduces a novel dataset with 3,950 annotated examples across six low- to 
 ---
 
 ## 📁 Repository Structure
-├── TWC_Dataset_Generation_+_Evaluation.ipynb # Notebook for dataset generation and evaluation
-├── Finetune.ipynb # Fine-tuning mBART-50 models
-└── Translate With Care Resources/
-├── Dataset/ # The TWC benchmark dataset
-├── opus-100/ # OPUS-100 test data for general evaluation
-├── Preliminary Experiments/ # Early exploratory experiments and baselines
-└── Test/ # Evaluation scripts and final test sets
 
+```
+📁 Repository Root
+├── TWC_Dataset_Generation_+_Evaluation.ipynb   # Notebook for dataset generation and evaluation
+├── Finetune.ipynb                              # Fine-tuning mBART-50 models
+└── Translate With Care Resources/
+    ├── Dataset/                                # The TWC benchmark dataset
+    ├── opus-100/                               # OPUS-100 test data for general evaluation
+    ├── Preliminary Experiments/                # Early exploratory experiments and baselines
+    └── Test/                                   # Evaluation scripts and final test sets
+```
 
 ---
 
