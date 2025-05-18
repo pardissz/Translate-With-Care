@@ -1,4 +1,5 @@
 # Translate With Care (TWC)
+![CoE (61)](https://github.com/user-attachments/assets/e77b35e7-6cae-4cf9-9376-ece2963ebaa7)
 
 
 This repository contains the official implementation of the paper:
