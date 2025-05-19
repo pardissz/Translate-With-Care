@@ -50,3 +50,12 @@ The TWC dataset contains 3,950 instances across six languages (Persian, Indonesi
 
 ---
 
+## 🤖 Models
+
+You can access the fine-tuned mBART-50 models on the [HuggingFace Model Hub](https://huggingface.co/PardisSzah):
+
+- [`mBART-ft-TWC`](https://huggingface.co/PardisSzah/mBART-ft-TWC): Fine-tuned on Turkish, Persian, and Indonesian TWC data. Achieves high accuracy in pronoun disambiguation, bias mitigation, and logical reasoning across both seen and unseen languages.
+
+- [`mBART-ft-id-TWC`](https://huggingface.co/PardisSzah/mBART-ft-id-TWC): Fine-tuned solely on Indonesian TWC data. Demonstrates strong cross-lingual generalization.
+
+---
